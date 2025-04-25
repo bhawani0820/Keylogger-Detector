@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.keylogger-detector-env/
+.keylogger_venv/
+
+# PyInstaller output
+dist/
+build/
+*.spec
+
+# Desktop entry files (optional if generated on build)
+*.desktop
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE files (VS Code, PyCharm, etc.)
+.vscode/
+.idea/
