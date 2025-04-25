@@ -1,6 +1,6 @@
 # 🛡️ Keylogger Detector (Ubuntu Linux)
 
-A simple and user-friendly **Keylogger Detector** desktop application for **Ubuntu**, built using **Python**, **Tkinter**, and **psutil**. This app scans active system processes for potential keyloggers by matching suspicious keywords in process names and command lines.
+A simple and user-friendly **Keylogger Detector** for **Ubuntu**, built using **Python**, **Tkinter**, and **psutil**. This scans active system processes for potential keyloggers by matching suspicious keywords in process names and command lines.
 
 ---
 
@@ -16,15 +16,17 @@ A simple and user-friendly **Keylogger Detector** desktop application for **Ubun
 
 ## 📸 Screenshots
 
-*![image](https://github.com/user-attachments/assets/c995e3d9-f29d-4938-93b1-b4e4d6de57a3)
-*
+![image](https://github.com/user-attachments/assets/6da07446-aafa-44d5-a499-7e4a645c985d)
+![image](https://github.com/user-attachments/assets/ab6559b1-e1fc-477f-9dfe-094c15ac5af1)
+
 
 ---
 
-## 📦 Installation
+## 📦 Installation and Execution
 
-### 1. Clone the repository
+### 1. Clone the repository and run the program
 
 ```bash
 git clone https://github.com/your-username/keylogger-detector.git
 cd keylogger-detector
+python3 Keylogger_Detector.py
